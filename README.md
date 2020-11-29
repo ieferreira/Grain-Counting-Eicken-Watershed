@@ -41,4 +41,4 @@ The original image and the watershed one with the number of grains found
 ### References
 
 - Eicken, H. (1993) Automated image analysis of ice thin sections - instrumentation, methods and extraction of stereological and textural parameters. Journal of Glaciology
-. Bhattiprolu, S. Grain Size Analysis in Python Using Watershed. https://github.com/bnsreenu/python_for_microscopists/blob/master/033-grain_size_analysis_using_wateshed_segmentation.py
+- Bhattiprolu, S. Grain Size Analysis in Python Using Watershed. https://github.com/bnsreenu/python_for_microscopists/blob/master/033-grain_size_analysis_using_wateshed_segmentation.py
