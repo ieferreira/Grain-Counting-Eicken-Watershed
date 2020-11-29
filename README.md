@@ -1,6 +1,6 @@
 ﻿## Grain Counting using preprocessing by Eicken and Watershed algorithm
 
-Using old techniques given by Eicken, 1993. Using edge detection algorithms to describe textural features in Ice Thin Sections (yes, Ice is anisotropic :o it's hexagonal, and actually counts as a mineral) and using a watershed algorithm I take a Troctolite (from the Macquaire University Database) for implementing this paper and a final watershed algorithm for grain counting; the results although not perfect are quite reasonable for an old algorithm (in a few days I will try with a more recent one, HED; check my repo: https://github.com/ieferreira/Grain-Counting-HED-Algorithm).
+Implementation of techniques given originally by Eicken, 1993. Using edge detection algorithms to describe textural features in Ice Thin Sections (yes, Ice is anisotropic :o it's hexagonal, and actually counts as a mineral) and using a watershed algorithm I take a Troctolite (from the Macquaire University Database) for implementing this paper and a final watershed algorithm for grain counting; the results although not perfect are quite reasonable for an old algorithm (in a few days I will try with a more recent one, HED; check my repo: https://github.com/ieferreira/Grain-Counting-HED-Algorithm).
 
 ### Original images
 
