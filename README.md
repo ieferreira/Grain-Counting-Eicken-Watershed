@@ -14,11 +14,14 @@ Implementation of Eicken is given in grayscale... maybe separating into channels
 
 ![](escaladegrises.jpg)
 
-### Erosion and dilation (morphological opening)
 
-![](erodila.jpg)
+### Grayscale histograms
 
-### Low-Pass Filter
+An Important part of the implementation is the difference in birefrigency at different angles, as is shown in the middle image (40°, optimally it should be 45°) the histograms  lowers
+
+![](histograma.jpg)
+
+### Erosion and dilation (morphological opening) and low-pass filter
 
 ![](gaussian.jpg)
 
