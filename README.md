@@ -5,7 +5,8 @@ Using old techniques given by Eicken, 1993. Using edge detection algorithms to d
 ### Binarization is left to the user, but a 20-60 lower threshold is advised
 
 
-![](gif_binary.gif = 300x300)
+
+<img src="gif_binary.gif" width="250" height="250"/>
 Playing with the lower threshold for the final binarization
 
 ## Final result
